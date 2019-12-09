@@ -1,0 +1,3 @@
+# beegoCrawler
+一个beego做的简单爬虫项目
+其中使用了beego框架、mysql和redis数据库，爬取豆瓣电影《七月与安生》以及其包含的电影子页面的相关信息
